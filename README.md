@@ -15,7 +15,7 @@ Welcome to the XGBoost Model for House Prices project! This repository contains 
 7. Configuration
 8. Troubleshooting & FAQ
 9. Maintainers
-10. Documentation
+
 
 ## Documentation
 - For a detailed walkthrough of the analysis, model development, and interpretation, please refer to the Jupyter Notebook: [XGBoost_Model_for_House_Prices.ipynb](link_to_your_notebook).
@@ -106,7 +106,4 @@ No additional configuration is needed. Ensure the necessary dataset files are in
 ## Maintainers
 - **Patriciah N. Mboya**
   - [LinkedIn](https://www.linkedin.com/in/patriciah-mboya/)
-  - Email: mboyapatricia@ymail.com
-
-## Documentation
-For any additional information, please refer to the Jupyter Notebook and feel free to contact the maintainer for assistance.
+  - mboyapatricia@ymail.com
