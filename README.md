@@ -18,7 +18,7 @@ Welcome to the XGBoost Model for House Prices project! This repository contains 
 10. Documentation
 
 ## Documentation
-For a detailed walkthrough of the analysis, model development, and interpretation, please refer to the Jupyter Notebook: [XGBoost_Model_for_House_Prices.ipynb](link_to_your_notebook).
+- For a detailed walkthrough of the analysis, model development, and interpretation, please refer to the Jupyter Notebook: [XGBoost_Model_for_House_Prices.ipynb](link_to_your_notebook).
 
 ## Deployment
 You can deploy the project by following these steps:
